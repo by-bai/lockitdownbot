@@ -15,6 +15,7 @@ p {
 
 a {
   color: #c9bcae;
+  color: #
 }
 
 a:hover {
@@ -40,7 +41,7 @@ h4 {
 }
 
 .page-section {
-  padding: 55px;
+  padding: 60px 0 65px;
 }
 
 .page-section h2.section-heading {
